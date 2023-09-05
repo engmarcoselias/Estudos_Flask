@@ -137,3 +137,21 @@ Limpar CMD: CLS
 ----------------------------Atalhos VS code------------------------
 https://www.youtube.com/watch?v=J9zepG022gw
 
+
+
+================================================================================================================================================================================================================================================
+
+RaspBerry pi
+
+https://www.raspberrypi.com/documentation/computers/raspberry-pi.html
+
+
+Documentação:
+
+https://gpiozero.readthedocs.io/en/stable/installing.html
+
+
+Tutorial Entradas e saida GPIO:
+
+https://www.youtube.com/watch?v=gcjQuvI6O6s
+

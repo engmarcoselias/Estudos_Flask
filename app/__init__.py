@@ -9,4 +9,4 @@ migrate = Migrate(app, db)
 
 
 from app.model import table
-from app.controler import default
+from app.controler import page
